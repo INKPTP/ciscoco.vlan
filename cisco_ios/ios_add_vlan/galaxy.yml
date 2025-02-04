@@ -1,0 +1,15 @@
+namespace: cisco_ios  # Replace with your actual namespace
+name: ios_add_vlan        # Name of the collection
+version: 1.0.0
+readme: README.md
+authors:
+  - pratinporn.ik@gmail.com
+description: Ansible collection for configuring VLANs on Cisco IOS devices
+license:
+  - MIT
+tags:
+  - networking
+  - cisco
+  - ios
+dependencies: {}
+repository: https://github.com/INKPTP/ansible_collections
