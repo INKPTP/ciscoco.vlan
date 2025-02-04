@@ -1,5 +1,5 @@
 namespace: cisco      # Your namespace
-name: cisco.vlan         # Collection name
+name: vlan         # Collection name
 version: 1.0.0
 readme: README.md
 authors:
