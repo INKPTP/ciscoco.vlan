@@ -13,3 +13,5 @@ tags:
   - ios
 dependencies: {}
 repository: https://github.com/INKPTP/ansible_collections
+documentation: https://github.com/INKPTP/ansible_collections/blob/main/README.md
+issues: https://github.com/INKPTP/ansible_collections/issues
