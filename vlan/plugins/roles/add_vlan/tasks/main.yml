@@ -1,0 +1,6 @@
+---
+- name: Configure VLAN on Cisco switch
+  ios_config:
+    lines:
+      - vlan {{ vlan_id }}
+      - name {{ vlan_name }}
