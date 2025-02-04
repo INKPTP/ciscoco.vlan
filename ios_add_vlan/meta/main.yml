@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Ink
+  description: Ansible role to configure VLANs on Cisco IOS devices
+  company: YourCompany
+  license: MIT
+  min_ansible_version: "2.9"
+  platforms:
+    - name: IOS
+      versions:
+        - all
+dependencies: []
