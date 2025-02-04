@@ -1,5 +1,5 @@
-namespace: cisco_ios      # Your namespace
-name: ios_add_vlan         # Collection name
+namespace: cisco      # Your namespace
+name: vlan         # Collection name
 version: 1.0.0
 readme: README.md
 authors:
